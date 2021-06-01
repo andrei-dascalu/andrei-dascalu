@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 ###
 
 #### 🔭 I’m currently learning ####
-- ** Erlang! **
+- **Erlang!**
 
 #### 👯 I’m looking to collaborate on ####
 - anything related to the stuff below!
@@ -10,6 +10,3 @@
 - PHP/Go
 - Kubernetes/Docker/Podman
 - GCP/Azure/AWS (in this order)
-- 
-
-
