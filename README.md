@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently learning ####
 - **Rust**
-- **Erlang (on hold) **
+- **Erlang (on hold)**
 
 #### 👯 I’m looking to collaborate on ####
 - anything related to the stuff below!
