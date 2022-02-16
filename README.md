@@ -1,7 +1,8 @@
 ### Hi there 👋 ###
 
 #### 🔭 I’m currently learning ####
-- **Erlang!**
+- **Rust**
+- **Erlang (on hold) **
 
 #### 👯 I’m looking to collaborate on ####
 - anything related to the stuff below!
